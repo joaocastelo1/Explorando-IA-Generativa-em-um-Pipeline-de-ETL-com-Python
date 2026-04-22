@@ -1,0 +1,37 @@
+[
+    {
+        "UserID": 1,
+        "Name": "Alice",
+        "Account": "00123-4",
+        "CardType": "Gold",
+        "Message": "Olá Alice, seu cartão Gold te dá 1.5% de cashback hoje!"
+    },
+    {
+        "UserID": 2,
+        "Name": "Bob",
+        "Account": "00567-8",
+        "CardType": "Platinum",
+        "Message": "Olá Bob, o acesso à Sala VIP está liberado para o seu Platinum."
+    },
+    {
+        "UserID": 3,
+        "Name": "Charlie",
+        "Account": "00910-1",
+        "CardType": "Basic",
+        "Message": "Olá Charlie, que tal fazer um upgrade do seu cartão Basic hoje?"
+    },
+    {
+        "UserID": 4,
+        "Name": "David",
+        "Account": "00246-8",
+        "CardType": "Black",
+        "Message": "Olá David, o limite do seu cartão Black foi expandido. Aproveite!"
+    },
+    {
+        "UserID": 5,
+        "Name": "Eve",
+        "Account": "00135-7",
+        "CardType": "Silver",
+        "Message": "Olá Eve, confira os descontos exclusivos no Shopping com seu Silver."
+    }
+]
